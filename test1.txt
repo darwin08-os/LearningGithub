@@ -1,4 +1,3 @@
 this is the first file..
 i am learning
-hello
 this is new line
